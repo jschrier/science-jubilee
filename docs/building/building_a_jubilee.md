@@ -138,6 +138,7 @@ corexy
 
 z_axis
 default-wiring
+software
 ```
 
 ```{toctree}
